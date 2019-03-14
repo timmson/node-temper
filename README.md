@@ -8,7 +8,6 @@ Binaries built from [SleddogSoftwareDevelopment/TEMPer2](https://github.com/Sled
 [![license](https://img.shields.io/npm/l/node-temper.svg)](https://www.npmjs.com/package/node-temper)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftimmson%2Fnode-temper.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftimmson%2Fnode-temper?ref=badge_shield)
 
-
 ## Install
 ```bash
 npm i node-temper
