@@ -3,8 +3,6 @@ Read temperature from TEMPer sensor (win32 only)
 
 Binaries built from [SleddogSoftwareDevelopment/TEMPer2](https://github.com/SleddogSoftwareDevelopment/TEMPer2)
 
-[![status](https://api.travis-ci.org/timmson/node-temper.svg?branch=master)](https://travis-ci.org/timmson/node-temper)
-[![codecov](https://codecov.io/gh/timmson/node-temper/branch/master/graph/badge.svg)](https://codecov.io/gh/timmson/node-temper)
 [![codacy](https://api.codacy.com/project/badge/Grade/1fd095695462405ea2a9fd85b30673ff)](https://www.codacy.com/app/timmson666/node-temper)
 [![version](https://img.shields.io/npm/v/node-temper.svg)](https://www.npmjs.com/package/node-temper)
 [![license](https://img.shields.io/npm/l/node-temper.svg)](https://www.npmjs.com/package/node-temper)
