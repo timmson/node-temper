@@ -14,7 +14,7 @@ module.exports = function() {
                 reject(err);
                 return;
             }
-            resolve(res);
+            resolve(JSON.parse(res));
         });
     });
 };
