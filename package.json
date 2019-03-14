@@ -1,0 +1,20 @@
+{
+  "name": "node-temper",
+  "version": "1.0.0",
+  "description": "Read temperature from TEMPer sensor (win32 only)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timmson/node-t-tracker.git"
+  },
+  "keywords": [
+    "temper",
+    "temperv2"
+  ],
+  "author": "timmson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timmson/node-temper/issues"
+  },
+  "homepage": "https://github.com/timmson/node-temper#readme"
+}
