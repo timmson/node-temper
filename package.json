@@ -1,6 +1,6 @@
 {
   "name": "node-temper",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Read temperature from TEMPer sensor (win32 only)",
   "main": "index.js",
   "repository": {
